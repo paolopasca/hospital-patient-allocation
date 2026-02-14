@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+venv/
+.venv/
+
+# Claude
+.claude/
+
+# Output directories (regenerated at runtime)
+output_box_plot/
+output_dot_plot/
+output_pareto/
