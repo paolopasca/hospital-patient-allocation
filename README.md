@@ -3,6 +3,8 @@
 A bi-objective optimization framework for assigning patients to hospital wards, comparing **exact methods (MILP)**, **metaheuristics (ILS, VNS)**, and a **matheuristic (hybrid)** approach that warm-starts the MILP solver with metaheuristic solutions.
 
 > Academic project for *Introduction to Artificial Intelligence* — FEUP, University of Porto (Jan 2026)
+
+
 > For the full mathematical formulation, algorithm derivations, and detailed results, see the [technical report](docs/report.pdf).
 
 ---
